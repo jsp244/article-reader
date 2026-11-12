@@ -17,9 +17,9 @@ needed for the "Use my logged-in Chrome" mode described below).
 
 Get the code either way:
 
-- `git clone https://github.com/jp244btc/article-reader.git`, **or**
+- `git clone https://github.com/jsp244/article-reader.git`, **or**
 - download and extract the source zip from the
-  [latest release](https://github.com/jp244btc/article-reader/releases).
+  [latest release](https://github.com/jsp244/article-reader/releases).
 
 Then just double-click **`run.bat`**. On first run it sets everything up
 automatically — creates a private Python environment, installs the pinned
